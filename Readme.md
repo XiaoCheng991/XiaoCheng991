@@ -1,4 +1,4 @@
-<p style="text-align: center;">
+<p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=Hi VISITORS&fontSize=90&fontAlign=50&fontAlignY=30&desc=I am XiaoCheng2024!&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
 </p>
 
@@ -7,8 +7,7 @@
 
 <!-- Stats -->
 <center>
-<!-- 贡献图 -->
-<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=XiaoCheng991&theme=github-compact&hide_border=true&area=true" />
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaoCheng991&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -19,12 +18,15 @@
 
 [//]: # (<img style="text-align: center;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XiaoCheng991&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />)
 
+<!-- 贡献图 -->
+<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=XiaoCheng991&theme=github-compact&hide_border=true&area=true" />
+
 </center>
 <!-- 技术栈 -->
 <img style="text-align: center;" src="https://skillicons.dev/icons?i={YOUR_TECH_STACK}&theme=light" />
 
 <!-- 技能 -->
-<p style="text-align: center;">
+<p align="center">
 <!-- https://github.com/tandpfun/skill-icons -->
 <img align="center" src="https://skillicons.dev/icons?i=java,py,md,cs,html,css,js,ts&theme=light" />
 </p>
@@ -39,8 +41,6 @@
     <img src="https://komarev.com/ghpvc/?username=XiaoCheng991&abbreviated=true&color=yellow" />
 </p>
 
-<p style="text-align: center;">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text=KEEP GOING&fontSize=90&fontAlign=50&fontAlignY=70&desc=Active!&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
-</p>
+
 
 # XiaoCheng991
