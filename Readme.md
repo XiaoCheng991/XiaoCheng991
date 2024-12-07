@@ -1,4 +1,4 @@
-<p align="center">
+<p style="text-align: center;">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=Hi VISITORS&fontSize=90&fontAlign=50&fontAlignY=30&desc=I am XiaoCheng2024!&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
 </p>
 
@@ -24,7 +24,7 @@
 <img style="text-align: center;" src="https://skillicons.dev/icons?i={YOUR_TECH_STACK}&theme=light" />
 
 <!-- 技能 -->
-<p align="center">
+<p style="text-align: center;">
 <!-- https://github.com/tandpfun/skill-icons -->
 <img align="center" src="https://skillicons.dev/icons?i=java,py,md,cs,html,css,js,ts&theme=light" />
 </p>
@@ -39,7 +39,7 @@
     <img src="https://komarev.com/ghpvc/?username=XiaoCheng991&abbreviated=true&color=yellow" />
 </p>
 
-<p align="center">
+<p style="text-align: center;">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text=KEEP GOING&fontSize=90&fontAlign=50&fontAlignY=70&desc=Active!&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
 </p>
 
