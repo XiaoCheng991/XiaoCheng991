@@ -15,8 +15,9 @@
 <!-- Streak -->
 [![GitHub Streak](https://streak-stats.demolab.com?user=XiaoCheng991)](https://git.io/streak-stats)
 
-<!-- 语言 -->
-<img style="text-align: center;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XiaoCheng991&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
+[//]: # (<!-- 语言 -->)
+
+[//]: # (<img style="text-align: center;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XiaoCheng991&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />)
 
 </center>
 <!-- 技术栈 -->
@@ -40,4 +41,6 @@
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text=KEEP GOING&fontSize=90&fontAlign=50&fontAlignY=70&desc=Active!&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
-</p># XiaoCheng991
+</p>
+
+# XiaoCheng991
