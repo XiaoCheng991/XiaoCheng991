@@ -12,19 +12,10 @@
 <img align="center" src="https://readme-typing-svg.demolab.com?font=Doto&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+Gitub+profile+page!" />
 </p>
 
-<!-- Stats -->
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=xiaoCheng991&show_icons=true&theme=tokyonight" />
-</p>
-
-<!-- Streak -->
-<p align="center">
-<img align="center" src="https://streak-stats.demolab.com?user=XiaoCheng991" />
-</p>
-
 [//]: # (<!-- 语言 -->)
 
 [//]: # (<img style="text-align: center;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XiaoCheng991&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />)
+
 
 <!-- 贡献图 -->
 <img align="center" width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=XiaoCheng991&theme=github-compact&hide_border=true&area=true" />
@@ -34,8 +25,8 @@
 
 <!-- 技能 -->
 <p align="center">
-<!-- https://github.com/tandpfun/skill-icons -->
-<img align="center" src="https://skillicons.dev/icons?i=java,py,md,cs,html,css,js,ts&theme=light" />
+  <!-- https://github.com/tandpfun/skill-icons -->
+  <img src="https://skillicons.dev/icons?i=java,spring,py,go,md,ts,js,html,css,nodejs,git,docker&theme=light" />
 </p>
 
 <!-- 链接 -->
